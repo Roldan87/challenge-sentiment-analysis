@@ -1,6 +1,6 @@
 # NLP Sentiment Analysis
 
-<img src="assets/netflix.jpg" alt="netflix" width="1024"/>
+<img src="netflix.jpg" alt="netflix" width="1024"/>
 
 ## The Mission
 
