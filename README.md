@@ -29,12 +29,13 @@ You just got an internship at Netflix. As a first task, they ask you to analyze 
 ### Data
 
 * Source: **Twitter**
+* Tweets: **45k**
 * Language: **English**
-* Sentiment Analysis: **TextBlob**
+* Sentiment Analysis Model: **TextBlob**
 
 | Netflix Show | Nº Tweets |
 |--------------|-----------|
-| Netflix TV shows | 3209    |
+| Netflix Platform | 3209    |
 | Daredevil    | 19500     |
 | The Witcher  | 10007     |
 | Squid Game   | 3486      |
