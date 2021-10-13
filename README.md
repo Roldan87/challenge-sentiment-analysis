@@ -1,4 +1,4 @@
-# NLP Sentiment Analysis
+# NLP Sentiment Analysis App
 
 <img src="netflix.jpg" alt="netflix" width="1024"/>
 
