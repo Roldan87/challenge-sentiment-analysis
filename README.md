@@ -46,6 +46,9 @@ You just got an internship at Netflix. As a first task, they ask you to analyze 
 | Stranger Things   | 395   |
 | La Casa de Papel  | 631   |
 
+
+<img src="assets/witcher_cloud.png" alt="witcher_cloud" width="720"/>
+
 ### APP link
 [https://netflix-sentiment-nlp.herokuapp.com/](https://netflix-sentiment-nlp.herokuapp.com/)
 
